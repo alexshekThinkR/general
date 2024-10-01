@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	background-image: url(images\"hospbackground1.avif");
+	background-image: url(images\"hospbackground2.png");
 }
 
 ol, ul {
@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background-image: url(images\"hospbackground1.avif");
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
