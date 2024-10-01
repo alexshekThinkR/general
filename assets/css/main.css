@@ -123,6 +123,9 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75;
 	}
+	#main header p {
+    		color: #FFFFFF;
+	}
 
 		@media screen and (max-width: 1680px) {
 
