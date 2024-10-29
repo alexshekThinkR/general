@@ -125,7 +125,7 @@ input, select, textarea {
 	}
 	#main header p {
     		color: #FFFFFF;
-    		background-color: rgba(128, 128, 128, 0.5); /* Gray with 50% transparency */
+    		background-color: rgba(128, 128, 128, 0.8); /* Gray with 50% transparency */
     		padding: 10px; /* Optional: Add padding for spacing */
     		border-radius: 5px; /* Optional: Round the corners */
 	}
