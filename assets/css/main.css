@@ -124,7 +124,7 @@ input, select, textarea {
 		line-height: 1.75;
 	}
 	#main header p {
-    		color: #FFFFFF; /*main text font colour */
+    		color: #FFFFFF;
 	}
 
 		@media screen and (max-width: 1680px) {
