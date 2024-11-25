@@ -99,7 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/hospbackground2.png");
+		/* background-image: url("images/hospbackground2.png"); */
+		background-image: url("images/JGHbackground.png");
 		
 	}
 
