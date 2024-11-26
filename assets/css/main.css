@@ -101,7 +101,9 @@ input, select, textarea {
 	body {
 		/* background-image: url("images/hospbackground2.png"); */
 		background-image: url("images/JGHbackground.png");
-		
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+  		background-position: center; 
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
