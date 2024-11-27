@@ -99,13 +99,13 @@ input, select, textarea {
 	}
 
 	body {
-		/* background-image: url("images/hospbackground2.png"); */
 		background-image: url("images/JGHbackground.png");
 		background-repeat: no-repeat;
-		background-attachment: fixed;
-  		background-position: center; 
-		background-size: auto;
-		background-size: contain;
+		background-attachment: scroll; /* Allow scrolling */
+		background-position: top center; /* Adjust position */
+		background-size: 100% auto; /* Full width, height auto */
+		margin: 0; /* Remove default margin */
+		height: auto; /* Ensure height adjusts to content */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
