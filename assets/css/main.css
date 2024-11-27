@@ -92,6 +92,10 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		overflow: auto; /* Enable scrolling if needed */	
 	}
 
 	*, *:before, *:after {
@@ -106,6 +110,7 @@ input, select, textarea {
 		background-size: 100% auto; /* Full width, height auto */
 		margin: 0; /* Remove default margin */
 		height: auto; /* Ensure height adjusts to content */
+		min-height: 100vh;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
